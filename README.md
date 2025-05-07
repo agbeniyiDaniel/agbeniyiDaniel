@@ -23,5 +23,5 @@ I'm a passionate **Junior web dev** with experience in **React and Typescript**.
 
 ## Get in Touch 📬
 
-- **![LinkedIn]**(https://www.linkedin.com/in/opeyemi-agbeniyi-36920527b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- **![Twitter]**(https://x.com/Engr_Agbeniyi?t=mPl42E1DJtytm194YOF2Zg&s=09)
+- **[LinkedIn](https://www.linkedin.com/in/opeyemi-agbeniyi-36920527b)
+- **![Twitter](https://x.com/Engr_Agbeniyi?t=mPl42E1DJtytm194YOF2Zg&s=09)
