@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Opeyemi! 👋
 
-<!--
-**agbeniyiDaniel/agbeniyiDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Junior web dev** with experience in **React and Typescript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **ALX ProDev FrontEnd**
+- 🔭 Working on: **A weather app**
+- 🌍 Languages: **HTML, CSS, JavaScript, Python, English, Yoruba**
+- 📫 How to reach me: **agbeniyiopeyemi2022@gmail.com**
+- ⚡ Fun fact: **My passion for technology isn't just about coding, it's about creating meaningful experiences and solving real-world problems.**
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/opeyemi-agbeniyi-36920527b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- **[Twitter]**(https://x.com/Engr_Agbeniyi?t=mPl42E1DJtytm194YOF2Zg&s=09)
