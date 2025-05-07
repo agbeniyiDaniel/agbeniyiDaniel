@@ -1,6 +1,6 @@
 # Hi there, I'm Opeyemi! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://tse2.mm.bing.net/th?id=OIG1.O5rU5tDicEXRyAn7B0SD&cb=iwp1&pid=ImgGn)
 
 ## About Me 🚀
 
@@ -23,5 +23,5 @@ I'm a passionate **Junior web dev** with experience in **React and Typescript**.
 
 ## Get in Touch 📬
 
-- **[LinkedIn](https://www.linkedin.com/in/opeyemi-agbeniyi-36920527b)
-- **![Twitter](https://x.com/Engr_Agbeniyi?t=mPl42E1DJtytm194YOF2Zg&s=09)
+[LinkedIn](https://www.linkedin.com/in/opeyemi-agbeniyi-36920527b)
+[Twitter](https://x.com/Engr_Agbeniyi?t=mPl42E1DJtytm194YOF2Zg&s=09)
